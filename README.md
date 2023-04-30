@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imran Khan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw27kiF5gOW9raxPYUZrZlpW&ust=1682914063049000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjf3OeT0P4CFQAAAAAdAAAAABAJ" >
 - 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **DSA or Web Dev**
