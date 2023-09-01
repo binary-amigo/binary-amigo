@@ -6,10 +6,10 @@
   </div>
 
 
-I create awesome web designs and cool websites.
+<h3 align="center">I create awesome web designs and cool websites.</h3>
 
 Skills: REACT / JS / HTML / CSS / jQuery / NodeJS / Bootstrap 
-[![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=binary-amigo)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/binary-amigo))
+
 
 - 🔭 I’m currently working on my Portfolio Website 
 - 🌱 I’m currently learning NodeJS 
