@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/binary-amigo/binary-amigo/blob/main/Untitled%20design%20(8).png"  />
+  <img height="200" src="[https://github.com/binary-amigo/binary-amigo/blob/main/Untitled%20design%20(8).png](https://github.com/binary-amigo/binary-amigo/blob/main/Untitled%20design%20(10).png)"  />
 </div>
 
 ###
