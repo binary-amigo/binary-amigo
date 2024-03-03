@@ -71,7 +71,7 @@
 
 <br clear="both">
 
-<img src="![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/binary-amigo/binary-amigo/output/snake.svg" alt="Snake animation" />
 
 ###
 
