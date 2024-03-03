@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="[https://github.com/binary-amigo/binary-amigo/blob/main/Untitled%20design%20(8).png](https://github.com/binary-amigo/binary-amigo/blob/main/Untitled%20design%20(10).png)"  />
-</div>
-
-###
-
 <p align="left">- 🔭 I’m currently working on my VoiceBot <br>- 🌱 I’m currently learning AWS<br>- 👯 I’m looking to collaborate on Open Source Projects <br>- 🤔 I’m looking for help with AI models<br>- 💬 Ask me about MERN and DSA<br>- 📫 How to reach me: imrankh8602@gmail.com <br>- 😄 Pronouns: He/His <br>- ⚡ Fun fact: Newton never got struck by an apple (its a myth)</p>
 
 ###
