@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I am Imran Khan, a Fullstack developer from India 🇮🇳. Let's connect!</h3>
+<h3 align="center">I am Imran Khan, a Fullstack developer from India 🇮🇳.</h3>
 <h3 align="center">I create awesome web designs and cool websites.</h3>
+<h3 align="center"> Let's connect!</h3>
 
 
 
