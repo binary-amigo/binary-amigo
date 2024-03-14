@@ -37,6 +37,9 @@
 </div>
 
 ###
+![](https://komarev.com/ghpvc/?username=binary-amigo)
+###
+###
 
 <br clear="both">
 
