@@ -1,80 +1,107 @@
-<h2 align="center">Hi 👋! My name is Imran Khan and I'm a Full Stack Developer, from India</h2>
+<h2 align="center">Hi 👋, I'm Imran Khan</h2>
+<p align="center">Software Development Engineer at <a href="https://codexray.io">CodeXray.io</a> · building observability tooling · Bengaluru, India</p>
 
 ###
 
-<p align="left">- 🔭 I’m currently working on my VoiceBot <br>- 🌱 I’m currently learning AWS<br>- 👯 I’m looking to collaborate on Open Source Projects <br>- 🤔 I’m looking for help with AI models<br>- 💬 Ask me about MERN and DSA<br>- 📫 How to reach me: imrankh8602@gmail.com <br>- 😄 Pronouns: He/His <br>- ⚡ Fun fact: Newton never got struck by an apple (its a myth)</p>
+- 🔭 Building **CodeXray.io**, an observability platform: APM tracing, browser & synthetic monitoring, alerting, and an **AI SRE assistant** that helps investigate incidents
+- ⚙️ Day to day: **Go** services, **ClickHouse** & **Kafka** telemetry pipelines, **OpenTelemetry** instrumentation, **React** dashboards
+- 🤖 Into LLM integration and **MCP** servers. I like building AI tools that are actually useful in production
+- 💬 Ask me about observability, ClickHouse performance tuning, distributed tracing, or full-stack web
+- 📫 Reach me at **imrankh8602@gmail.com**
+- ⚡ Fun fact: Newton never got hit by an apple (it's a myth)
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-</div>
+### 🛠️ Tech stack
+
+**Languages**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="36" alt="Go" title="Go" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" title="Java" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="36" alt="SQL" title="SQL" />
+</p>
+
+**Frontend & backend**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="Vue" title="Vue" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" title="Next.js" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36" alt="Express" title="Express" />
+</p>
+
+**Data & observability**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clickhouse/clickhouse-original.svg" height="36" alt="ClickHouse" title="ClickHouse" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" title="MongoDB" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis" title="Redis" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="36" alt="Kafka" title="Kafka" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="36" alt="Prometheus" title="Prometheus" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" height="36" alt="OpenTelemetry" title="OpenTelemetry" />
+</p>
+
+**DevOps**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="36" alt="Kubernetes" title="Kubernetes" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" alt="GitHub Actions" title="GitHub Actions" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" />
+</p>
 
 ###
-![](https://komarev.com/ghpvc/?username=binary-amigo)
-###
-###
 
-<br clear="both">
+### 🚀 Featured projects
 
-<div align="left">
-  <a href="https://linktr.ee/binary_amigo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/imran-khan86" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="@imrankh8602" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.com/imran_khan8602" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/imran..khan?igsh=ajloOWNwcjExdDRo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/imrankh8602" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+**[AcePrep](https://github.com/binary-amigo/Aceprep)**: an AI mock-interview platform. Google Gemini runs role-based interviews with follow-up questions, and there's a question bank and learning resources alongside.
+<br/>`React` `Node/Express` `MongoDB` `Tailwind` `Gemini`
+
+**Email Verifier**: checks whether a mailbox exists by doing an MX lookup and a live SMTP `RCPT TO` handshake, without sending any mail. Gives six delivery statuses through a web UI, a REST API, and bulk CSV mode.
+<br/>`Next.js` `TypeScript` `Bash` `Docker`
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/binary-amigo/binary-amigo/output/snake.svg" alt="Snake animation" />
-
-###
+### 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binary-amigo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binary-amigo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=binary-amigo&show_icons=true&include_all_commits=true&theme=dracula" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binary-amigo&layout=compact&card_width=320&langs_count=6&theme=dracula" height="150" alt="Top languages" />
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/binary-amigo/binary-amigo/output/snake.svg" alt="Contribution snake" />
+</p>
+
 ###
+
+### 🤝 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/imran-khan86" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" /></a>
+  <a href="mailto:imrankh8602@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Gmail" /></a>
+  <a href="https://twitter.com/imrankh8602" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="32" alt="X" /></a>
+  <a href="https://linktr.ee/binary_amigo" target="_blank"><img src="https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" height="32" alt="Linktree" /></a>
+</p>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=binary-amigo&color=blueviolet" alt="Profile views" /></p>
